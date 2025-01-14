@@ -13,7 +13,7 @@ function pattern(n) {
 let n = parseInt(prompt("Enter n:"));
 pattern(n);
 
-//*****
+// *****
 // *****
 // *****
 // *****
